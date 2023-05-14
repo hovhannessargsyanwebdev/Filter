@@ -1,7 +1,7 @@
 # Filter
 Local filter by four criteria
 
-This project locally filters mobile brands
+This repository locally filters mobile brands
 according to four criteria
 1. by brand
 2. by price
